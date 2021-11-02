@@ -1,7 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import *as React from 'react';
 import { NavigationContainer, DefaultTheme} from '@react-navigation/native';
-import {createNativeStackNavigator} from '@react-navigation/native-stack';
+//import {createNativeStackNavigator} from '@react-navigation/native-stack';
 
 import login from './src/components/login';
 
